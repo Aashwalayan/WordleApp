@@ -8,7 +8,7 @@ The app challenges players to guess a hidden word within a limited number of att
 - Interactive on-screen keyboard
 - Color-coded tiles for feedback
 - Clean and responsive UI
-- Cross-platform support (Android, iOS, Web, Desktop)
+- Cross-platform support (Android, iOS)
 
 ## Tech Stack
 - Flutter
