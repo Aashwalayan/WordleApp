@@ -1,16 +1,27 @@
-# wordleclone
+# WordleApp
 
-A new Flutter project.
+A Flutter-based Wordle clone inspired by the original game.  
+The app challenges players to guess a hidden word within a limited number of attempts, with visual feedback for correct, misplaced, and incorrect letters.
+
+## Features
+- Classic Wordle-style gameplay
+- Interactive on-screen keyboard
+- Color-coded tiles for feedback
+- Clean and responsive UI
+- Cross-platform support (Android, iOS, Web, Desktop)
+
+## Tech Stack
+- Flutter
+- Dart
+
+## Project Structure
+- `lib/` – Core game logic and UI
+- `android/`, `ios/`, `web/`, `windows/`, `linux/`, `macos/` – Platform-specific files
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Ensure Flutter is installed
+2. Clone the repository
+3. Run:
+   ```bash
+   flutter pub get
+   flutter run
